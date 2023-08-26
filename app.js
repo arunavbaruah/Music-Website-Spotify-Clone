@@ -3,13 +3,13 @@ const music = new Audio('vande.mp3');
 
 const songs = [
     {
-        id:'1',
+        id:"1",
         songName:` On My Way <br>
         <div class="subtitle">Alan Walker</div>`,
         poster: "1.jpg"
     },
     {
-        id:'2',
+        id:"2",
         songName:` Alan Walker-Fade <br>
         <div class="subtitle">Alan Walker</div>`,
         poster: "2.jpg"
